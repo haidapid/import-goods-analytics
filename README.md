@@ -4,6 +4,8 @@ An interactive Power BI dashboard project designed to analyze import costs, sale
 
 ## Project Overview
 
+(Screenshots/dashboard-preview.png)
+
 This project focuses on analyzing import and sales data to gain insights into business performance. The dashboard provides an overview of key metrics and interactive visualizations to support data-driven decision-making.
 
 ## Objectives
