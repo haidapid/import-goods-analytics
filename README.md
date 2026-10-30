@@ -4,7 +4,9 @@ An interactive Power BI dashboard project designed to analyze import costs, sale
 
 ## Project Overview
 
-![Import Goods Analytics Dashboard]
+## Dashboard Preview
+
+![Import Goods Analytics Dashboard](https://raw.githubusercontent.com/haidapid/import-goods-analytics/main/Import%201.png)
 
 This project focuses on analyzing import and sales data to gain insights into business performance. The dashboard provides an overview of key metrics and interactive visualizations to support data-driven decision-making.
 
